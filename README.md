@@ -5,3 +5,6 @@ https://docs.aws.amazon.com/sdk-for-php/v3/developer-guide/getting-started_insta
 
 ### php_sample1
 Пример использования PHP SDK AWS для вызова Translate - онлайн перевод строки текста (en-ru в примере)
+
+### php_sample2
+Пример использования PHP SDK AWS для вызова Translate c использование Terminology
